@@ -1,0 +1,9 @@
+# Asi nemá moc smysl
+FreeTube/
+Signal/
+
+# Nic jsem nezměnil, předgenerované
+bottom/
+fish/fish_variables
+pulse/
+ripgrep-all/
