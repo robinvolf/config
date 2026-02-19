@@ -1,0 +1,17 @@
+theme = "ayu_dark"
+
+# Pro dočasné globální vypnutí LSP odkomentuj následující dva řádky
+[editor]
+# Minimum severity to show a diagnostic after the end of a line:
+end-of-line-diagnostics = "warning"
+jump-label-alphabet = "hjklasdfgqwertyuiopzxcvbnm"
+
+[editor.inline-diagnostics]
+# Minimum severity to show a diagnostic on the primary cursor's line.
+# Note that `cursor-line` diagnostics are hidden in insert mode.
+cursor-line = "hint"
+# Minimum severity to show a diagnostic on other lines:
+other-lines = "error"
+
+[editor.soft-wrap]
+enable = true

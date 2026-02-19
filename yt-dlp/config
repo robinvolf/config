@@ -1,0 +1,9 @@
+# Preferuj VP9, protože to mám HW akceleraci dekódování
+--format bestvideo[vcodec=vp9][height<=1080]+bestaudio/best
+
+# Zapeče do staženého souboru kapitoly a náhled
+--embed-chapters
+--embed-thumbnail
+
+# Výsledný soubor to remuxne do .mkv
+-t mkv

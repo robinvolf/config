@@ -1,0 +1,2 @@
+# Použije clipboard místo primary (to divné co se pak pastuje prostředním tlačítkem myši)
+set selection-clipboard clipboard

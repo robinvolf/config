@@ -1,0 +1,47 @@
+[
+    (
+        output: (
+            name: "HDMI-A-2",
+            edid: Some((
+                manufacturer: ('D', 'E', 'L'),
+                product: 53378,
+                serial: Some(842549058),
+                manufacture_week: 38,
+                manufacture_year: 2016,
+                model_year: None,
+            )),
+        ),
+        tiling_enabled: true,
+        id: Some("180e0cf"),
+    ),
+    (
+        output: (
+            name: "HDMI-A-2",
+            edid: Some((
+                manufacturer: ('D', 'E', 'L'),
+                product: 53378,
+                serial: Some(842549058),
+                manufacture_week: 38,
+                manufacture_year: 2016,
+                model_year: None,
+            )),
+        ),
+        tiling_enabled: true,
+        id: Some("402732"),
+    ),
+    (
+        output: (
+            name: "HDMI-A-2",
+            edid: Some((
+                manufacturer: ('D', 'E', 'L'),
+                product: 53378,
+                serial: Some(842549058),
+                manufacture_week: 38,
+                manufacture_year: 2016,
+                model_year: None,
+            )),
+        ),
+        tiling_enabled: true,
+        id: Some("262de4"),
+    ),
+]
