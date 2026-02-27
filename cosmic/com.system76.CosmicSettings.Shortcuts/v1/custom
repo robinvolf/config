@@ -3,6 +3,12 @@
         modifiers: [
             Super,
         ],
+        key: "p",
+    ): System(Screenshot),
+    (
+        modifiers: [
+            Super,
+        ],
         key: "Return",
     ): System(Terminal),
 }
