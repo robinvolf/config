@@ -3,12 +3,135 @@
         modifiers: [
             Super,
         ],
-        key: "p",
-    ): System(Screenshot),
+        key: "aacute",
+    ): Workspace(8),
     (
         modifiers: [
             Super,
         ],
         key: "Return",
     ): System(Terminal),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "yacute",
+    ): MoveToWorkspace(7),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "scaron",
+    ): Workspace(3),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "plus",
+    ): MoveToWorkspace(1),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "ccaron",
+    ): Workspace(4),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "p",
+    ): System(Screenshot),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "aacute",
+    ): MoveToWorkspace(8),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "rcaron",
+    ): Workspace(5),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "zcaron",
+    ): Workspace(6),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "2",
+    ): Workspace(2),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "ecaron",
+    ): MoveToWorkspace(2),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "scaron",
+    ): MoveToWorkspace(3),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "iacute",
+    ): MoveToWorkspace(9),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "ccaron",
+    ): MoveToWorkspace(4),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "iacute",
+    ): Workspace(9),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "yacute",
+    ): Workspace(7),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "zcaron",
+    ): MoveToWorkspace(6),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "plus",
+    ): Workspace(1),
+    (
+        modifiers: [
+            Super,
+            Shift,
+        ],
+        key: "rcaron",
+    ): MoveToWorkspace(5),
+    (
+        modifiers: [
+            Super,
+        ],
+        key: "ecaron",
+    ): Workspace(2),
 }
